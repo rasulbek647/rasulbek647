@@ -54,8 +54,20 @@ Email Me 👉 ✉️ **boyjonovanasiba518@gmail.com** For Collaboration/Project 
   </table>
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rasulbek647&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+🚀 **Some Cool Animations for My Profile:**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CodeArcadia-fastest&color=brightgreen"/>
+</p>
+
+---
+
+
+### ⚡ Just for fun
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeArcadia-fastest&theme=react&hide_border=true&area=true" width="100%" />
+</p>
+
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rasulbek647&limit=5&theme=dark&combine_all_yearly_contributions=true)
